@@ -1,7 +1,8 @@
 # 💼 Jobs in Data – Salary Analysis Dashboard
 
-**📊 Final Project - Excel & Tableau**  
-**🗂️ Dataset source:** [Jobs and Salaries in Data Science (Kaggle)](https://public.tableau.com/app/profile/ileana.gisele.velazquez/viz/Jobs-in-data/Dashboard1 "Link to dataset")
+**📊 [Final Project - Excel & Tableau](https://public.tableau.com/app/profile/ileana.gisele.velazquez/viz/Jobs-in-data/Dashboard1 "Link to final project")**
+
+**🗂️ Dataset source:** [Jobs and Salaries in Data Science (Kaggle)](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data "Link to dataset")
 
 ---
 

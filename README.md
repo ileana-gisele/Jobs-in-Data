@@ -1,8 +1,7 @@
 # 💼 Jobs in Data – Salary Analysis Dashboard
 
-**📊 [Final Project - Excel & Tableau](https://public.tableau.com/app/profile/ileana.gisele.velazquez/viz/Jobs-in-data/Dashboard1 "Link to final project")**
-
-**🗂️ Dataset source:** [Jobs and Salaries in Data Science (Kaggle)](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data "Link to dataset")
+#### 📊 [Final Project - Excel & Tableau](https://public.tableau.com/app/profile/ileana.gisele.velazquez/viz/Jobs-in-data/Dashboard1 "Link to final project")
+#### 🗂️ Dataset source: [Jobs and Salaries in Data Science (Kaggle)](https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data "Link to dataset")
 
 ---
 
@@ -47,6 +46,8 @@ This dashboard aims to explore:
 - Converted the Excel table to a structured format
 - Connected the data to Tableau
 
+#### 🔗 [Download clean dataset](https://github.com/ileana-gisele/Jobs-in-Data/blob/master/DB_Jobs-in-data.xlsx)
+
 ---
 
 ## 📊 Visualizations & Interactivity
@@ -73,6 +74,10 @@ This dashboard aims to explore:
 
 ### Dual-Axis Bar Chart
 - Compared salary distribution across contract types
+
+
+#### 📈 [Dashboard1 screenshot](https://github.com/ileana-gisele/Jobs-in-Data/blob/master/assets/img_Dashboard1.png "First dashboard screenshot")
+#### 📉 [Dashboard2 screenshot](https://github.com/ileana-gisele/Jobs-in-Data/blob/master/assets/img_Dashboard2.png "Second dashboard screenshot")
 
 ---
 
